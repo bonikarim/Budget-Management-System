@@ -1,2 +1,3 @@
 # Budget-Management-System
-Budget management system application
+
+Initial setup with Vue, Router, and Bootstrap
