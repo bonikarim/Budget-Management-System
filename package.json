@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "budget-frontend",
   "private": true,
   "version": "0.0.0",
@@ -16,5 +17,9 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
     "vite": "^7.1.2"
+=======
+  "dependencies": {
+    "pinia": "^3.0.3"
+>>>>>>> c8fabff (Add Dashboard, Income/Expenses forms, and Pinia integration)
   }
 }
